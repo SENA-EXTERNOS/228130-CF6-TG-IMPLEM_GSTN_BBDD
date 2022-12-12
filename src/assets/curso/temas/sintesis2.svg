@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1333.979" height="601.765" viewBox="0 0 1333.979 601.765">
+  <g id="Grupo_176847" data-name="Grupo 176847" transform="translate(-161.834 -1228)">
+    <rect id="Rectángulo_293566" data-name="Rectángulo 293566" width="149" height="149" rx="4.5" transform="translate(669.834 1680.266)" fill="#b9ddfc"/>
+    <path id="Trazado_116030" data-name="Trazado 116030" d="M4582.51,1499.342H4869c3.732,0,6.757,2.343,6.757,5.233v34.534c0,2.89-3.025,5.233-6.757,5.233H4582.51c-3.73,0-6.757-2.341-6.757-5.231v-34.536C4575.753,1501.685,4578.779,1499.342,4582.51,1499.342Z" transform="translate(-3895.919 -271.342)" fill="#084a93"/>
+    <g id="Bases_de_datos" data-name="Bases de datos" transform="translate(-3879.325 -271.342)" style="isolation: isolate">
+      <text id="Modelado_Multidimensional" data-name="Modelado Multidimensional" transform="translate(4596.159 1528.342)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Modelado Multidimensional</tspan></text>
+    </g>
+    <g id="Rectángulo_40686" data-name="Rectángulo 40686" transform="translate(-4135.919 -295.576)">
+      <rect id="Rectángulo_293559" data-name="Rectángulo 293559" width="650" height="125" rx="5" transform="translate(4640.753 1596.342)" fill="none" stroke="rgba(0,0,0,0)" stroke-width="2"/>
+      <rect id="Rectángulo_293560" data-name="Rectángulo 293560" width="649" height="124" rx="4.5" transform="translate(4641.253 1596.842)" fill="none" stroke="#707070" stroke-width="2"/>
+    </g>
+    <line id="Línea_327" data-name="Línea 327" y2="29.268" transform="translate(830.334 1271.998)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211856" data-name="Trazado 211856" d="M4270.523,1610.842h107.393v147.475" transform="translate(-3114.689 -251.551)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211862" data-name="Trazado 211862" d="M4377.916,1610.842H4270.523v147.475" transform="translate(-3872.189 -251.551)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211851" data-name="Trazado 211851" d="M4376.222,1673.977h-131.7v44.974" transform="translate(-4005.582 -141.293)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211852" data-name="Trazado 211852" d="M4244.523,1673.977h134.427v44.974" transform="translate(-3822.689 -141.293)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211857" data-name="Trazado 211857" d="M4353.722,1673.977h25.229v44.974" transform="translate(-3017.388 -141.293)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211860" data-name="Trazado 211860" d="M4378.95,1673.977h-25.229v44.974" transform="translate(-3193.282 -141.293)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_116256" data-name="Trazado 116256" d="M4874.849,1654.342h139.933a5.137,5.137,0,0,1,5.034,5.233v34.535a5.137,5.137,0,0,1-5.034,5.233H4874.849a5.137,5.137,0,0,1-5.034-5.233v-34.535A5.137,5.137,0,0,1,4874.849,1654.342Z" transform="translate(-3684.146 -147.576)" fill="#a6f4fe"/>
+    <g id="NoSQL" transform="translate(-3670.968 -145.576)" style="isolation: isolate">
+      <text id="ESQUEMAS" transform="translate(4889.636 1681.342)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">ESQUEMAS</tspan></text>
+    </g>
+    <path id="Trazado_116256-2" data-name="Trazado 116256-2" d="M4377.078,1654.342h139.928a5.137,5.137,0,0,1,5.038,5.233v34.535a5.136,5.136,0,0,1-5.033,5.233H4377.078a5.137,5.137,0,0,1-5.034-5.233v-34.535A5.137,5.137,0,0,1,4377.078,1654.342Z" transform="translate(-4050.209 -147.576)" fill="#a6f4fe"/>
+    <text id="Un_modelo_multidimensional_dentro_del_entorno_de_las_bases_de_datos_es_un_sistema_de_software_creado_para_el_almacenamiento_y_la_reconstrucción_eficiente_de_miles_de_datos_que_se_encuentran_relacionados_almacenados_revisados_y_estudiados_desde_diferente" data-name="Un modelo multidimensional dentro del entorno de las bases de datos es un sistema de software creado para el almacenamiento y la reconstrucción eficiente de miles de datos que se encuentran relacionados,  almacenados, revisados y estudiados desde diferente" transform="translate(826.834 1316.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-299.566" y="17">Un modelo multidimensional dentro del entorno de las bases de datos es un sistema </tspan><tspan x="-299.699" y="41">de </tspan><tspan y="41" font-family="Roboto-Italic, Roboto" font-style="italic">software</tspan><tspan y="41" xml:space="preserve"> creado para el almacenamiento y la reconstrucción eficiente de miles de </tspan><tspan x="-297.551" y="65" xml:space="preserve">datos que se encuentran relacionados,  almacenados, revisados y estudiados desde </tspan><tspan x="-240.492" y="89">diferentes perspectivas (conocidas con el nombre de dimensiones).</tspan></text>
+    <g id="SQL" transform="translate(-4041.19 -145.576)" style="isolation: isolate">
+      <text id="CONCEPTOS" transform="translate(4392.024 1681.342)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">CONCEPTOS</tspan></text>
+    </g>
+    <rect id="Rectángulo_40686-2" data-name="Rectángulo 40686-2" width="150" height="35" rx="5" transform="translate(322.334 1577.657)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_40686-2-2" data-name="Rectángulo 40686-2" width="150" height="70" rx="5" transform="translate(1085.022 1577.657)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_40686-2-3" data-name="Rectángulo 40686-2" width="150" height="35" rx="5" transform="translate(482.334 1577.657)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_40686-2-4" data-name="Rectángulo 40686-2" width="150" height="70" rx="5" transform="translate(1286.313 1577.266)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_40686-2-5" data-name="Rectángulo 40686-2" width="150" height="35" rx="5" transform="translate(162.334 1577.657)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <g id="Lenguaje_de_consulta_estructurado" data-name="Lenguaje de consulta estructurado" transform="translate(-4038.507 -197.185)" style="isolation: isolate">
+      <text id="DIMENSIONES" transform="translate(4435.341 1799.342)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-52.527" y="0">DIMENSIONES</tspan></text>
+    </g>
+    <g id="Lenguaje_de_consulta_estructurado-2" data-name="Lenguaje de consulta estructurado" transform="translate(-3275.819 -189.576)" style="isolation: isolate">
+      <text id="ESTRELLA_O_STAR" data-name="ESTRELLAO STAR" transform="translate(4435.341 1799.342)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-38.094" y="0">ESTRELLA</tspan><tspan x="-26.949" y="19.2">O </tspan><tspan y="19.2" font-family="Roboto-BoldItalic, Roboto" font-style="italic">STAR</tspan></text>
+    </g>
+    <g id="Lenguaje_de_consulta_estructurado-3" data-name="Lenguaje de consulta estructurado" transform="translate(-3878.507 -197.185)" style="isolation: isolate">
+      <text id="MEDIDA" transform="translate(4435.341 1799.342)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-29.621" y="0">MEDIDA</tspan></text>
+    </g>
+    <g id="Lenguaje_de_consulta_estructurado-4" data-name="Lenguaje de consulta estructurado" transform="translate(-3073.528 -199.576)" style="isolation: isolate">
+      <text id="COPO_DE_NIEVE_O_SNOWFLAKE" data-name="COPO DE NIEVE
+O SNOWFLAKE" transform="translate(4435.341 1809.342)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-57.336" y="0">COPO DE NIEVE</tspan><tspan x="-53.301" y="19.2">O </tspan><tspan y="19.2" font-family="Roboto-BoldItalic, Roboto" font-style="italic">SNOWFLAKE</tspan></text>
+    </g>
+    <g id="Lenguaje_de_consulta_estructurado-5" data-name="Lenguaje de consulta estructurado" transform="translate(-4198.507 -197.185)" style="isolation: isolate">
+      <text id="CUBOS" transform="translate(4435.341 1799.342)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-26.047" y="0">CUBOS</tspan></text>
+    </g>
+    <path id="Trazado_211848" data-name="Trazado 211848" d="M4407.044,1836.342v32" transform="translate(-4010.481 -223.685)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211850" data-name="Trazado 211850" d="M4407.044,1836.342v32" transform="translate(-3850.481 -223.685)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211855" data-name="Trazado 211855" d="M4407.044,1836.342v32" transform="translate(-3045.731 -188.576)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211861" data-name="Trazado 211861" d="M4407.044,1836.342v32" transform="translate(-3245.71 -188.576)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211849" data-name="Trazado 211849" d="M4407.044,1836.342v32" transform="translate(-4170.481 -223.685)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_480" data-name="Línea 480" y2="25.5" transform="translate(396.563 1552.157)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Rectángulo_40686-4" data-name="Rectángulo 40686-4" transform="translate(-3885.981 -225.576)">
+      <rect id="Rectángulo_293565" data-name="Rectángulo 293565" width="150" height="100" rx="5" transform="translate(4208.815 1870.342)" fill="#b9ddfc"/>
+      <rect id="Rectángulo_293566-2" data-name="Rectángulo 293566" width="149" height="99" rx="4.5" transform="translate(4209.315 1870.842)" fill="#b9ddfc"/>
+    </g>
+    <g id="Rectángulo_40686-4-2" data-name="Rectángulo 40686-4" transform="translate(-3122.981 -190.576)">
+      <rect id="Rectángulo_293565-2" data-name="Rectángulo 293565" width="150" height="110" rx="5" transform="translate(4208.815 1870.342)" fill="#b9ddfc"/>
+      <rect id="Rectángulo_293566-3" data-name="Rectángulo 293566" width="149" height="109" rx="4.5" transform="translate(4209.315 1870.842)" fill="#b9ddfc"/>
+    </g>
+    <g id="Rectángulo_40686-4-3" data-name="Rectángulo 40686-4" transform="translate(-2922.002 -190.576)">
+      <rect id="Rectángulo_293565-3" data-name="Rectángulo 293565" width="150" height="110" rx="5" transform="translate(4208.815 1870.342)" fill="#b9ddfc"/>
+      <rect id="Rectángulo_293566-4" data-name="Rectángulo 293566" width="149" height="109" rx="4.5" transform="translate(4209.315 1870.842)" fill="#b9ddfc"/>
+    </g>
+    <g id="Rectángulo_40686-4-4" data-name="Rectángulo 40686-4" transform="translate(-3725.981 -225.576)">
+      <rect id="Rectángulo_293565-4" data-name="Rectángulo 293565" width="150" height="100" rx="5" transform="translate(4208.815 1870.342)" fill="#b9ddfc"/>
+      <rect id="Rectángulo_293566-5" data-name="Rectángulo 293566" width="149" height="99" rx="4.5" transform="translate(4209.315 1870.842)" fill="#b9ddfc"/>
+    </g>
+    <g id="Rectángulo_40686-4-5" data-name="Rectángulo 40686-4" transform="translate(-4045.981 -225.576)">
+      <rect id="Rectángulo_293565-5" data-name="Rectángulo 293565" width="150" height="100" rx="5" transform="translate(4208.815 1870.342)" fill="#b9ddfc"/>
+      <rect id="Rectángulo_293566-6" data-name="Rectángulo 293566" width="149" height="99" rx="4.5" transform="translate(4209.315 1870.842)" fill="#b9ddfc"/>
+    </g>
+    <text id="Una_gran_tabla_central_unida_con_puntos_radiales_desde_el_centro." data-name="Una gran tabla central unida con puntos radiales desde el centro." transform="translate(1159.856 1684.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-51.465" y="17">Una gran tabla </tspan><tspan x="-61.051" y="41">central unida con </tspan><tspan x="-54.527" y="65">puntos radiales </tspan><tspan x="-56.516" y="89">desde el centro.</tspan></text>
+    <line id="Línea_479" data-name="Línea 479" y2="82.268" transform="translate(829.168 1426.266)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211858" data-name="Trazado 211858" d="M4257.6,1673.977h-13.072v44.974" transform="translate(-3501.46 -141.293)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211859" data-name="Trazado 211859" d="M4241.768,1673.977H4257.6v44.974" transform="translate(-3337.226 -141.293)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_116256-2-2" data-name="Trazado 116256" d="M4874.849,1654.342h139.933a5.137,5.137,0,0,1,5.034,5.233v34.535a5.137,5.137,0,0,1-5.034,5.233H4874.849a5.137,5.137,0,0,1-5.034-5.233v-34.535A5.137,5.137,0,0,1,4874.849,1654.342Z" transform="translate(-4115.146 -147.576)" fill="#a6f4fe"/>
+    <text id="TIPO_DE_BASES" data-name="TIPO DE BASES" transform="translate(773.668 1535.766)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">TIPO DE BASES</tspan></text>
+    <rect id="Rectángulo_40686-2-6" data-name="Rectángulo 40686-2" width="150" height="70" rx="5" transform="translate(668.834 1577.657)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_40686-2-7" data-name="Rectángulo 40686-2" width="150" height="70" rx="5" transform="translate(839.334 1577.266)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <text id="TABLAS_DE_HECHOS_FACT" data-name="TABLAS DE
+HECHOS FACT" transform="translate(743.334 1609.766)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-41.367" y="0">TABLAS DE</tspan><tspan x="-52.117" y="19.2">HECHOS </tspan><tspan y="19.2" font-family="Roboto-BoldItalic, Roboto" font-style="italic">FACT</tspan></text>
+    <text id="TABLAS_DE_DIMENSIONES_O_LOCK_UP" data-name="TABLAS DE
+DIMENSIONES
+O LOCK UP" transform="translate(913.834 1599.766)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-41.367" y="0">TABLAS DE</tspan><tspan x="-52.527" y="19.2">DIMENSIONES</tspan><tspan x="-39.152" y="38.4">O </tspan><tspan y="38.4" font-family="Roboto-BoldItalic, Roboto" font-style="italic">LOCK UP</tspan></text>
+    <path id="Trazado_211853" data-name="Trazado 211853" d="M4407.044,1836.342v32" transform="translate(-3663.981 -188.576)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_211854" data-name="Trazado 211854" d="M4407.044,1836.342v32" transform="translate(-3483.481 -188.576)" fill="none" stroke="#707070" stroke-width="2"/>
+    <rect id="Rectángulo_293565-6" data-name="Rectángulo 293565" width="150" height="150" rx="5" transform="translate(669.334 1679.766)" fill="#b9ddfc"/>
+    <rect id="Rectángulo_293565-7" data-name="Rectángulo 293565" width="150" height="150" rx="5" transform="translate(839.834 1679.766)" fill="#b9ddfc"/>
+    <rect id="Rectángulo_293566-7" data-name="Rectángulo 293566" width="149" height="149" rx="4.5" transform="translate(840.334 1680.266)" fill="#b9ddfc"/>
+    <text id="Es_la_tabla_central_que_almacena_la_expresión_numérica_del_negocio." data-name="Es la tabla central que almacena la expresión numérica del negocio." transform="translate(744.334 1684.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-36.672" y="17">Es la tabla </tspan><tspan x="-39.473" y="41">central que </tspan><tspan x="-43.121" y="65">almacena la </tspan><tspan x="-34.68" y="89">expresión </tspan><tspan x="-45.934" y="113">numérica del </tspan><tspan x="-30.5" y="137">negocio.</tspan></text>
+    <text id="Estas_tablas_se_conectan_y_alimentan_a_la_tabla_fact." data-name="Estas tablas se conectan y alimentan a la tabla fact." transform="translate(914.834 1708.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-53.957" y="17">Estas tablas se </tspan><tspan x="-38.734" y="41">conectan y </tspan><tspan x="-49.883" y="65">alimentan a la </tspan><tspan x="-35.762" y="89">tabla fact.</tspan></text>
+    <text id="Son_diferentes_tablas_que_pueden_ser_generadas_de_tablas_adicionales." data-name="Son diferentes tablas que pueden ser generadas de tablas adicionales." transform="translate(1360.813 1684.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-51.508" y="17">Son diferentes </tspan><tspan x="-65.328" y="41">tablas que pueden </tspan><tspan x="-61.051" y="65">ser generadas de </tspan><tspan x="-66.523" y="89">tablas adicionales.</tspan></text>
+    <text id="Agregan_datos_en_detalle_dentro_del_nivel_deseado." data-name="Agregan datos en detalle dentro del nivel deseado." transform="translate(398.834 1648.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-51.973" y="17">Agregan datos </tspan><tspan x="-59.418" y="41">en detalle dentro </tspan><tspan x="-29.082" y="65">del nivel </tspan><tspan x="-32.645" y="89">deseado.</tspan></text>
+    <text id="OLAP_Manejo_de_una_robusta_cantidad_de_datos." data-name="OLAP
+Manejo de una robusta cantidad de datos." transform="translate(238.834 1648.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-20.145" y="17">OLAP</tspan><tspan x="-52.348" y="41">Manejo de una </tspan><tspan x="-60.043" y="65">robusta cantidad </tspan><tspan x="-32.922" y="89">de datos.</tspan></text>
+    <text id="Dato_numérico_que_representa_una_actividad." data-name="Dato numérico que representa una actividad." transform="translate(558.834 1648.766)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-52.148" y="17">Dato numérico </tspan><tspan x="-53.297" y="41">que representa </tspan><tspan x="-49.547" y="65">una actividad.</tspan></text>
+  </g>
+</svg>
