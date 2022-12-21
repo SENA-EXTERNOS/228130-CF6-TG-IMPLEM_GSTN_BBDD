@@ -345,7 +345,7 @@
           img(src='@/assets/curso/temas/tema1/img1-26.png', alt='Persona con computador portátil')
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-11
+      .col-lg-11.col-sm-8
         ImagenInfografica.color-primario
           template(v-slot:imagen)
             figure
@@ -382,17 +382,17 @@
       .col-lg-7
         LineaTiempoD.color-acento-botones
           p.text-small(numero="1" titulo="La aplicación de la tecnología bodegas de datos") Depende, siempre, de la situación en la que se encuentra la empresa y los recursos de los que dispone, tanto económicos como humanos. Aun así, todas las empresas pueden empezar a emplear estrategias relacionadas con el análisis de datos, que más adelante pueden ser escalables a otros volúmenes.
-          p.text-small(numero="2" titulo="<em>Data Warehouse</em>") necesitan hacer un manejo cada vez más ágil de la información para mantenerse competitivas en la industria. Los 
+          p.text-small(numero="2" titulo="<em>Data Warehouse</em>") Las grandes empresas necesitan hacer un manejo cada vez más ágil de la información para mantenerse competitivas en la industria. Los 
             em data warehouses 
             |sirven para predecir la cantidad de producto que se venderá a un determinado precio y, por consiguiente, producir la cantidad adecuada para una entrega "justo a tiempo". Asimismo, la requerida para satisfacer la demanda del producto por las grandes cadenas minoristas, garantizando la entrega de inmensas cantidades "en consignación", que no son pagados hasta que sean vendidos al consumidor final.
-          p.text-small(numero="3" titulo="Ejemplo de <em>Data Warehouse</em>") De empresa que usa bodegas de datos es 
+          p.text-small(numero="3" titulo="Ejemplo de <em>Data Warehouse</em>") Un ejemplo de empresa que usa bodegas de datos es 
             em Whirlpool
             |. Esta fábrica de electrodomésticos ubicada en Michigan, aplica su 
             em data warehouse
             |:
             br
             br
-            em Para hacer un seguimiento directo de sus casi 15 millones de clientes y de sus más de 20 millones de aparatos instalados. Las mayores aplicaciones del sistema son para marketing, ventas, mantenimiento, garantía y diseño de productos. Permite mantener stock de partes más ajustados y mejorar las condiciones de negociación con los proveedores de las mismas. Si, por ejemplo, un determinado motor se identifica como poseedor de una tasa de falla superior, Whirlpool puede utilizar la información para hacer renegociaciones de garantía con el proveedor. (XDOCS, s.f., p.2).
+            |Para hacer un seguimiento directo de sus casi 15 millones de clientes y de sus más de 20 millones de aparatos instalados. Las mayores aplicaciones del sistema son para marketing, ventas, mantenimiento, garantía y diseño de productos. Permite mantener stock de partes más ajustados y mejorar las condiciones de negociación con los proveedores de las mismas. Si, por ejemplo, un determinado motor se identifica como poseedor de una tasa de falla superior, Whirlpool puede utilizar la información para hacer renegociaciones de garantía con el proveedor. (XDOCS, s.f., p.2).
           p.text-small(numero="4" titulo="Otros ejemplos de <em>Data Warehouse</em>") Son las empresas de carga y pasajeros que también utilizan 
             em data warehouses 
             |para almacenar y acceder a gran cantidad de datos de sus operaciones y sistemas de reservas tales como artículos, tiempos de entrega, equipamiento, capacidades, costos, ventas, márgenes, etc. Para identificar y programar actividades de 

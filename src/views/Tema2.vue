@@ -109,7 +109,7 @@
               |sigue ampliándose año tras año, en el 2006 invirtió 1.900 millones de dólares en la construcción de nuevos centros de datos, cifra que aumentó significativamente en 2007 llegando a 2.400 millones de dólares invertidos con el mismos fin; se debe tener en cuenta que ese gasto o esa inversión no queda en esa cifra debido a que esos centros de datos albergan en su interior miles de servidores y estos a su vez presentan consumo de energía bastante elevada; por lo que 
               em Google 
               |cuenta con un área de innovación que tiene como objetivo buscar la eficiencia en su proceso, es decir, reducir costos en cuanto al consumo, mantener un eficiente servicio y óptimas condiciones en sus centros de datos, enfocados en la energía renovable y sostenible (Abadía digital, 2009).
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-11.png', alt='Carretera')
         .row.justify-content-center
@@ -123,7 +123,7 @@
               |opera la nube global más limpia de la industria y es la empresa corporativa más grande del mundo como comprador de energía renovable (
               em Google
               |, s.f.).
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-12.png', alt='Molinos de viento')
         .row.justify-content-center
@@ -131,7 +131,7 @@
             p 
               em Google 
               |es una empresa con una gran visión; tanto así, que es la primera empresa en comprometerse a operar con energía libre de carbono las 24 horas del día, los 7 días de la semana, en todos sus centros de datos. Esto es mucho más desafiante que el enfoque que tenía de combinar el uso de energía tradicional con energía renovable y está trabajando para lograrlo para el año 2030. Gracias a las tendencias en tecnología y las políticas gubernamentales adecuadas, la promesa de energía limpia las 24 horas del día, los 7 días de la semana pronto estará al alcance de la mano (Revista Semana, 2020).
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-13.png', alt='Google')
         .row.justify-content-center
@@ -139,7 +139,7 @@
             p Para cumplir la meta, 
               em Google 
               |invertirá en enfoques que le permitan obtener energía libre de carbono de manera confiable en todos los lugares, en todo momento del día. De igual forma, buscan soluciones y/o métodos para emparejar fuentes de energía eólica y solar, y aumentar el uso de almacenamiento de energía en baterías. Se enfoca en aplicar IA (inteligencia artificial) para optimizar su demanda y pronóstico de electricidad e, igualmente, afirma que todos estos esfuerzos pueden acelerar la disponibilidad de energía limpia en comunidades de todo el mundo (Ámbito, 14 de septiembre de 2020).
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-14.png', alt='Molinos de viento')
         .row.justify-content-center
@@ -149,7 +149,7 @@
               |y todos sus retos, no solo para tener centros de datos eficientes sino para la sostenibilidad y avance tecnológico a nivel mundial; en los próximos párrafos se sintetiza toda la tecnología y métodos de seguridad que tiene 
               em Google 
               |para sus centros de datos y toda su información.
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-15.png', alt='Persona con tablet')
         .row.justify-content-center
@@ -159,7 +159,7 @@
               |se toma la seguridad de sus datos muy en serio, tanto así que garantiza la seguridad de todos los datos de los usuarios, mediante numerosas funciones de seguridad, creando servidores personalizados específicamente para sus centros de datos. El equipo de seguridad de la empresa trabaja las 24 horas del día en todo el mundo, lo que convierte a estas instalaciones en el lugar más seguro para almacenar datos, también cuenta con medidas de continuidad de la actividad empresarial y de recuperación tras fallos (
               em Google
               |, s.f.).
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-16.png', alt='Persona con tablet')
         .row.justify-content-center
@@ -169,7 +169,7 @@
               |posee centros de operaciones de seguridad regionales y locales que cubren todos los centros de datos, los cuales monitorean y procesan las alarmas de todas las instalaciones (
               em Google
               |, s.f.). 
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-17.png', alt='Cable roto')
         .row.justify-content-center
@@ -177,7 +177,7 @@
             p Asimismo, el equipo de seguridad realiza controles durante todo el año para garantizar que esté bien preparado para cualquier eventualidad y ejecuta un sólido programa de gestión de riesgos empresariales para evaluar y mitigar de manera proactiva los riesgos del centro de datos (
               em Google
               |, s.f.).
-          .col-md-4
+          .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-18.png', alt='Centro de datos')
 
