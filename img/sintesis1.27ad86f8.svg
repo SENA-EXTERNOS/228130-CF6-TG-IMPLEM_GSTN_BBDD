@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1063.834" height="625" viewBox="0 0 1063.834 625">
+  <g id="Grupo_176848" data-name="Grupo 176848" transform="translate(-284.5 -485)">
+    <path id="Trazado_116030" data-name="Trazado 116030" d="M4583.1,1499.342h311.439c4.056,0,7.345,2.776,7.345,6.2v40.921c0,3.425-3.289,6.2-7.345,6.2H4583.1c-4.056,0-7.346-2.774-7.346-6.2v-40.923C4575.753,1502.119,4579.042,1499.342,4583.1,1499.342Z" transform="translate(-3900.669 -1014.342)" fill="#084a93"/>
+    <g id="Bases_de_datos" data-name="Bases de datos" transform="translate(709.658 498.633)" style="isolation: isolate">
+      <text id="Diseño_Físico_y_Diseño_Lógico" data-name="Diseño Físico y Diseño Lógico" transform="translate(-0.324 18.367)" fill="#fff" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Diseño Físico y Diseño Lógico</tspan></text>
+    </g>
+    <path id="Trazado_116256" data-name="Trazado 116256" d="M4875.65,1654.342h162.216a5.816,5.816,0,0,1,5.834,5.8v38.255a5.816,5.816,0,0,1-5.834,5.8H4875.65a5.816,5.816,0,0,1-5.835-5.8v-38.255A5.816,5.816,0,0,1,4875.65,1654.342Z" transform="translate(-3852.756 -989.659)" fill="#a6f4fe"/>
+    <g id="NoSQL" transform="translate(1035.335 677.958)" style="isolation: isolate">
+      <text id="Ubicación_Física" data-name="Ubicación Física" transform="translate(-0.001 16.042)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Ubicación Física</tspan></text>
+    </g>
+    <path id="Trazado_116256-2" data-name="Trazado 116256-2" d="M4377.294,1654.342h145.99a5.546,5.546,0,0,1,5.257,5.8v38.255a5.545,5.545,0,0,1-5.252,5.8H4377.294a5.544,5.544,0,0,1-5.25-5.8v-38.255A5.544,5.544,0,0,1,4377.294,1654.342Z" transform="translate(-4030.82 -989.659)" fill="#a6f4fe"/>
+    <g id="SQL" transform="translate(359.981 677.958)" style="isolation: isolate">
+      <text id="Diseño_Lógico" data-name="Diseño Lógico" transform="translate(0.353 16.042)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Diseño Lógico</tspan></text>
+    </g>
+    <path id="Trazado_116256-2-2" data-name="Trazado 116256-2" d="M4377.294,1654.342h145.99a5.546,5.546,0,0,1,5.257,5.8v38.255a5.545,5.545,0,0,1-5.252,5.8H4377.294a5.544,5.544,0,0,1-5.25-5.8v-38.255A5.544,5.544,0,0,1,4377.294,1654.342Z" transform="translate(-3643.635 -989.659)" fill="#a6f4fe"/>
+    <g id="SQL-2" data-name="SQL" transform="translate(746.946 677.958)" style="isolation: isolate">
+      <text id="Diseño_Físico" data-name="Diseño Físico" transform="translate(0.388 16.042)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Diseño Físico</tspan></text>
+    </g>
+    <rect id="Rectángulo_40686-2" data-name="Rectángulo 40686-2" width="274.739" height="86.381" rx="5" transform="translate(285 744.09)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_40686-2-2" data-name="Rectángulo 40686-2" width="274.739" height="175.643" rx="5" transform="translate(665.81 744.09)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_40686-2-3" data-name="Rectángulo 40686-2" width="274.739" height="98.535" rx="5" transform="translate(967.212 744.09)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    <g id="Lenguaje_de_consulta_estructurado" data-name="Lenguaje de consulta estructurado" transform="translate(298.109 754.513)" style="isolation: isolate">
+      <text id="Crear_mapas_altamente_técnicos_de_las_estructuras_y_reglas_de_datos_subyacentes" data-name="Crear mapas altamente
+técnicos de las estructuras
+y reglas de datos subyacentes" transform="translate(114.225 16.487)" fill="#12263f" font-size="17" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="-88.478" y="0">Crear mapas altamente</tspan><tspan x="-101.693" y="20">técnicos de las estructuras</tspan><tspan x="-114.082" y="40">y reglas de datos subyacentes</tspan></text>
+    </g>
+    <rect id="Rectángulo_40686-3" data-name="Rectángulo 40686-3" width="275" height="70" rx="5" transform="translate(967.334 870)" fill="#b9ddfc"/>
+    <rect id="Rectángulo_40686-2-4" data-name="Rectángulo 40686-2" width="191" height="52" rx="5" transform="translate(442.334 967)" fill="#fff4da"/>
+    <rect id="Rectángulo_40686-2-5" data-name="Rectángulo 40686-2" width="275" height="156" rx="5" transform="translate(666.334 954)" fill="#b9ddfc"/>
+    <rect id="Rectángulo_40686-2-6" data-name="Rectángulo 40686-2" width="192" height="77" rx="5" transform="translate(1123.334 965)" fill="#fff4da"/>
+    <g id="Rectángulo_40686-4" data-name="Rectángulo 40686-4" transform="translate(297.124 867.566)">
+      <rect id="Rectángulo_293565" data-name="Rectángulo 293565" width="260.829" height="52.166" rx="5" transform="translate(0 0)" fill="#b9ddfc"/>
+      <rect id="Rectángulo_293566" data-name="Rectángulo 293566" width="259.67" height="51.007" rx="4.5" transform="translate(0.58 0.58)" fill="#b9ddfc"/>
+    </g>
+    <g id="es-2" transform="translate(312.122 873.363)" style="isolation: isolate">
+      <text id="Reduce_el_almacenamiento_de_datos_innecesario" data-name="Reduce el almacenamiento
+de datos innecesario" transform="translate(102 16)" fill="#12263f" font-size="17" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="-102.216" y="0">Reduce el almacenamiento</tspan><tspan x="-78.538" y="20">de datos innecesario</tspan></text>
+    </g>
+    <line id="Línea_327" data-name="Línea 327" y2="126.939" transform="translate(806.585 538.323)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_117905" data-name="Trazado 117905" d="M4789.907,1610.842H4407.044v50.427" transform="translate(-3984.988 -996.587)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_117906" data-name="Trazado 117906" d="M4660.244,1610.842h295.109v50.427" transform="translate(-3851.931 -996.587)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_328" data-name="Línea 328" y2="28.981" transform="translate(1103.423 714.53)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_329" data-name="Línea 329" y2="27.822" transform="translate(1103.423 842.046)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_117909" data-name="Trazado 117909" d="M4407.044,1836.342v37.1" transform="translate(-3984.989 -1005.871)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_212810" data-name="Trazado 212810" d="M4407.044,1836.342v74.84" transform="translate(-3984.989 -917.182)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Trazado_117910" data-name="Trazado 117910" d="M53.325,0H0V20.287" transform="translate(1103.423 993.906) rotate(-90)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_333" data-name="Línea 333" x1="22.34" y2="0.151" transform="translate(421.79 993.326)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_334" data-name="Línea 334" y2="29.561" transform="translate(422.056 714.53)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_477" data-name="Línea 477" y2="29.561" transform="translate(803.179 714.53)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_478" data-name="Línea 478" x1="0.345" y2="34.768" transform="translate(802.834 919.732)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Análisis_de_impacto" data-name="Análisis de impacto" transform="translate(456.334 979)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Análisis de impacto</tspan></text>
+    <text id="Data_centers_en_diferentes_países." data-name="Data centers en diferentes países." transform="translate(1138.334 976)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Data centers en </tspan><tspan x="0" y="41">diferentes países.</tspan></text>
+    <text id="Creación_de_bases_de_datos_con_el_modelo_de_diseño_lógico_teniendo_en_cuenta_las_estrategias_adecuadas_y_mejores_prácticas_de_seguridad." data-name="Creación de bases de datos con el modelo de diseño lógico teniendo en cuenta las estrategias adecuadas y mejores prácticas de seguridad." transform="translate(800.334 752)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-121.75" y="17">Creación de bases de datos con el </tspan><tspan x="-119.91" y="41">modelo de diseño lógico teniendo </tspan><tspan x="-88.863" y="65">en cuenta las estrategias </tspan><tspan x="-121.242" y="89">adecuadas y mejores prácticas de </tspan><tspan x="-37.391" y="113">seguridad.</tspan></text>
+    <text id="Almacenamiento_seguro_recuperable_confiable_y_fácil_administración." data-name="Almacenamiento seguro, recuperable, confiable y fácil administración." transform="translate(1101.334 752)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-88.422" y="17">Almacenamiento seguro, </tspan><tspan x="-100.949" y="41">recuperable, confiable y fácil </tspan><tspan x="-55.023" y="65">administración.</tspan></text>
+    <text id="El_diseño_físico_inicial_debe_revisarse_periódicamente_para_asegurarse_de_que_sigue_satisfaciendo_las_necesidades_del_cliente." data-name="El diseño físico inicial debe revisarse periódicamente para asegurarse de que sigue satisfaciendo las necesidades del cliente." transform="translate(800.334 973)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-95.969" y="17">El diseño físico inicial debe </tspan><tspan x="-107.406" y="41">revisarse periódicamente para </tspan><tspan x="-86.676" y="65">asegurarse de que sigue </tspan><tspan x="-120.074" y="89">satisfaciendo las necesidades del </tspan><tspan x="-25.68" y="113">cliente.</tspan></text>
+    <text id="Diferentes_ubicaciones_sistemas_y_esquemas." data-name="Diferentes ubicaciones, sistemas y esquemas." transform="translate(1116.334 879)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-82.938" y="17">Diferentes ubicaciones, </tspan><tspan x="-79.43" y="41">sistemas y esquemas.</tspan></text>
+  </g>
+</svg>
