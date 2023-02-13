@@ -10,6 +10,8 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Conceptos
 
+    p.mb-5 El modelado multidimensional, consiste en una técnica de diseño de bases de datos que responde a las necesidades analíticas que impone la tecnología <i>Data Warehousing</i>. Se logra un diseño más cercano a la visión del usuario final de una consulta empresarial y la información es fácil de encuestar y navegar. Además, permite obtener mayor velocidad de recuperación de las consultas, en comparación con el modelo Entidad-Relación. Por otra parte, asegura un orden implícito y permite el almacenamiento y análisis histórico de la información, mediante la inserción de los datos por intervalos de tiempo. 
+
     p.mb-5 A continuación, se explican los conceptos que se trabajan en un modelado multidimensional. 
 
     .tarjeta.tarjeta--azul1.p-4.mb-5(data-aos="zoom-in")
@@ -212,16 +214,12 @@
         figure
           img(src='@/assets/curso/temas/tema1/img1-14.svg', alt='Cubo')
       .col-lg-8(data-aos="fade-left")
-        p OLAP comprende varias operaciones analíticas básicas como es el 
-          em "drill-down" 
-          |y 
-          em "slicing and dicing"
-          |. Las operaciones indican las diferentes formas en que se pueden ver las bases de datos; son los diferentes puntos de vista, como por ejemplo las ventas de un tipo de producto en determinado país o región los canales de ventas o el tipo de producto.
+        p OLAP comprende varias operaciones analíticas básicas como es el “<i>drill-down</i>” y el “<i>slicing and dicing</i>”. Las operaciones indican las diferentes formas en que se pueden ver las bases de datos; son los distintos puntos de vista, como, por ejemplo, las ventas de un tipo de producto en determinado país o región, los canales de ventas, o el tipo de producto.
 
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul1")
       .row.justify-content-center(titulo="<em>Drill down (roll down)</em>")
         .col-md-5.mb-4.mb-md-0
-          p Permite ir desde un alto nivel de resumen a un bajo nivel o de datos detallados. Es la desagregación y especialización.  Puede moverse en la dirección contraria y presentar automáticamente datos detallados que abarcan datos consolidados. Por ejemplo, podría accederse fácilmente a las ventas por productos individuales o representantes de ventas que conforman las ventas totales de una región.
+          p Permite ir desde un alto nivel de resumen, a un bajo nivel o de datos detallados. Es la separación y la especialización. Puede moverse en la dirección contraria y presentar automáticamente, datos detallados que abarcan datos consolidados. Por ejemplo, podría accederse fácilmente a las ventas por productos individuales o sus representantes, los cuales conforman las negociaciones totales de una región.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema1/img1-15.svg', alt='Drill down')
@@ -319,7 +317,7 @@
           .col-md-10.mb-4.mb-md-0
             figure.mb-5
               img(src='@/assets/curso/temas/tema1/img1-23.png', alt='Modelado multidimensional')
-            p Actualmente, el modelado multidimensional tiene muchas aplicaciones y conocerlo cada día ayuda a definirlo mejor y conocer cuáles son sus variables como lo es el tiempo. Al momento de trabajar se recogen y analizan grandes cantidades de datos, para tener mejor y mucha más información, en especial, sobre la audiencia, los consumidores o el público objetivo, pero no se pueden aplicar de una forma general y obtener conclusiones, sin tener en cuenta “el tiempo". Este gran volumen de información recogida se marca en un punto determinado del tiempo, por lo que con los datos más en un punto determinado en el tiempo y un muy buen análisis, se logra entender el pasado, el presente o proyectar el futuro.
+            p Actualmente, el modelado multidimensional, tiene muchas aplicaciones y conocerlo cada día más, ayuda a definirlo mejor y saber cuáles son sus variables, como, por ejemplo, el tiempo, entre ellas. Al momento de trabajar, se recogen y analizan grandes cantidades de datos, para tener mejor y mucha más información, en especial, sobre la audiencia, los consumidores o el público objetivo; pero no se pueden aplicar de una forma general y obtener conclusiones, sin tener en cuenta “el tiempo". Este gran volumen de información recogida, se marca en un punto determinado del tiempo, por lo que, con los datos establecidos en ese momento puntual y un muy buen análisis, se logran entender el pasado, el presente, o una proyección del futuro. 
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             figure.mb-5
@@ -368,7 +366,7 @@
               em items 
               |que quedarán determinados por la clave compuesta de la tabla 
               em Fact.
-
+    p.mb-5 A continuación, en este video, conoceremos las estrategias de innovación digital para incorporar bodegas de datos en organizaciones: 
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -381,11 +379,9 @@
           img(src='@/assets/curso/temas/tema1/img1-28.png', alt='Manos en computador portátil')
       .col-lg-7
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="La aplicación de la tecnología bodegas de datos") Depende, siempre, de la situación en la que se encuentra la empresa y los recursos de los que dispone, tanto económicos como humanos. Aun así, todas las empresas pueden empezar a emplear estrategias relacionadas con el análisis de datos, que más adelante pueden ser escalables a otros volúmenes.
-          p.text-small(numero="2" titulo="<em>Data Warehouse</em>") Las grandes empresas necesitan hacer un manejo cada vez más ágil de la información para mantenerse competitivas en la industria. Los 
-            em data warehouses 
-            |sirven para predecir la cantidad de producto que se venderá a un determinado precio y, por consiguiente, producir la cantidad adecuada para una entrega "justo a tiempo". Asimismo, la requerida para satisfacer la demanda del producto por las grandes cadenas minoristas, garantizando la entrega de inmensas cantidades "en consignación", que no son pagados hasta que sean vendidos al consumidor final.
-          p.text-small(numero="3" titulo="Ejemplo de <em>Data Warehouse</em>") Un ejemplo de empresa que usa bodegas de datos es 
+          p(numero="1" titulo="La aplicación de la tecnología bodegas de datos") Depende, siempre, de la situación en la que se encuentra la empresa y los recursos de los que dispone, tanto económicos como humanos. Aun así, todas las empresas pueden empezar a emplear estrategias relacionadas con el análisis de datos, que más adelante pueden ser escalables a otros volúmenes.
+          p(numero="2" titulo="<em>Data Warehouse</em>") Las grandes empresas necesitan hacer un manejo cada vez más ágil de la información, para mantenerse competitivas en la industria. los data <i>warehouse</i>, sirven para predecir la cantidad de producto que se venderá a un determinado precio y, por consiguiente, producir la cantidad adecuada para una entrega "justo a tiempo". asimismo, la requerida para satisfacer la demanda del producto por las grandes cadenas minoristas, garantizando la entrega de inmensas cantidades "en consignación", que no son pagadas hasta que sean vendidas al consumidor final.
+          p(numero="3" titulo="Ejemplo de <em>Data Warehouse</em>") Un ejemplo de empresa que usa bodegas de datos es 
             em Whirlpool
             |. Esta fábrica de electrodomésticos ubicada en Michigan, aplica su 
             em data warehouse
@@ -393,12 +389,12 @@
             br
             br
             |Para hacer un seguimiento directo de sus casi 15 millones de clientes y de sus más de 20 millones de aparatos instalados. Las mayores aplicaciones del sistema son para marketing, ventas, mantenimiento, garantía y diseño de productos. Permite mantener stock de partes más ajustados y mejorar las condiciones de negociación con los proveedores de las mismas. Si, por ejemplo, un determinado motor se identifica como poseedor de una tasa de falla superior, Whirlpool puede utilizar la información para hacer renegociaciones de garantía con el proveedor. (XDOCS, s.f., p.2).
-          p.text-small(numero="4" titulo="Otros ejemplos de <em>Data Warehouse</em>") Son las empresas de carga y pasajeros que también utilizan 
+          p(numero="4" titulo="Otros ejemplos de <em>Data Warehouse</em>") Son las empresas de carga y pasajeros que también utilizan 
             em data warehouses 
             |para almacenar y acceder a gran cantidad de datos de sus operaciones y sistemas de reservas tales como artículos, tiempos de entrega, equipamiento, capacidades, costos, ventas, márgenes, etc. Para identificar y programar actividades de 
             em marketing
             |, planificación de capacidad, monitoreo de utilidades, proyecciones y análisis de ventas y costos, programas de calidad y servicio a sus clientes.
-          p.text-small(numero="5" titulo="Empresas que usan <em>Data Warehouse</em>") En las grandes empresas que aplican 
+          p(numero="5" titulo="Empresas que usan <em>Data Warehouse</em>") En las grandes empresas que aplican 
             em data warehouses 
             |se encuentran: 
             em Amazon, Coca Cola, Google, Nike, Facebook, Procter & Gamble, Walmart, Tesla, Microsoft 

@@ -129,54 +129,54 @@ export default {
     {
       tema: 'Modelo multidimensional',
       referencia:
-        'Muy tecnológicos. (18 de agosto de 2021). <em>Base de datos multidimensional.</em>',
-      tipo: 'Web',
+        'Muy tecnológicos. (2021).<i> Base de datos multidimensional</i>.',
+      tipo: 'Página Web',
       link:
         'https://muytecnologicos.com/diccionario-tecnologico/base-de-datos-multidimensional',
     },
     {
-      tema: 'Aplicación modelado multidimensional',
+      tema: 'Modelado multidimensional',
       referencia:
-        'Evaluando <em>software</em>. (2 de junio de 2022). <em>Tratamiento de los datos: OLTP, OLAP, Data Warehouse.</em>',
-      tipo: 'Web',
+        'Evaluando software. (2022). <i>Tratamiento de los datos: OLTP, OLAP, Data Warehouse</i>.',
+      tipo: 'Página Web',
       link:
         'https://www.evaluandosoftware.com/tratamiento-los-datos-oltp-olap-data-warehouse/',
     },
     {
-      tema: 'Concepto de modelado multidimensional',
+      tema: 'Modelado multidimensional',
       referencia:
-        'Respuestas rápidas. (17 de febrero de 2022). <em>¿Qué ventajas y desventajas tiene el uso de base de datos multidimensional?</em>',
-      tipo: 'Web',
+        'Respuestas rápidas. (2022). <i>¿Qué ventajas y desventajas tiene el uso de base de datos multidimensional?</i>',
+      tipo: 'Página Web',
       link:
         'https://respuestasrapidas.com.mx/que-ventajas-y-desventajas-tiene-el-uso-de-base-de-datos-multidimensionales/#Que_ventajas_y_desventajas_tiene_el_uso_de_base_de_datos_multidimensionales',
     },
     {
-      tema: 'Bodega de datos, conceptos',
+      tema: 'Modelado multidimensional',
       referencia:
         'Mesa, F. Pérez, F. & Noguera, C. (2019). <em>Bodega de Datos para la empresa Adventure Works</em> [Trabajo de grado, Universidad Jorge Tadeo Lozano].',
-      tipo: 'Trabajo de grado',
+      tipo: 'Trabajo de grado de especialización',
       link:
         'https://1library.co/document/zp0k6w4q-bodega-datos-para-la-empresa-adventure-works-cycles.html',
     },
     {
-      tema: 'Bodega de datos, definiciones',
+      tema: 'Modelado multidimensional',
       referencia:
         'Roldán, D. (2015). <em>Diseño de una guía general para construir una bodega de datos del área de ventas de una empresa</em> [Monografía de diplomado, Universidad Libre]. Repositorio Universidad Libre.',
-      tipo: 'Monografía',
+      tipo: 'Trabajo de grado de pregrado',
       link:
         'https://repository.unilibre.edu.co/bitstream/handle/10901/11042/Monografia%20bodega%20datos.pdf?sequence=1',
     },
     {
-      tema: 'OLAP',
+      tema: 'Modelado multidimensional',
       referencia:
         'Calle, D. (2009). <em>Manual para el diseño e implementación de bases de datos OLAP y su aplicación en inteligencia de negocios</em> [Trabajo de grado, UNIVERSIDAD EAFIT]. Repositorio Institucional Universidad EAFIT.',
-      tipo: 'Trabajo de grado',
+      tipo: 'Trabajo de grado de pregrado',
       link: 'https://core.ac.uk/download/47240196.pdf',
     },
     {
-      tema: '<em>Data center</em>',
-      referencia: '<em>Google. (s.f.). Centros de datos.</em>',
-      tipo: 'Web',
+      tema: 'Modelado multidimensional',
+      referencia: 'Google. (s.f.). <i>Centros de datos</i>.',
+      tipo: 'Página Web',
       link: 'https://www.google.com/intl/es/about/datacenters/locations/',
     },
   ],
@@ -238,7 +238,7 @@ export default {
     },
     {
       referencia:
-        'Ámbito. (14 de septiembre de 2020). <em>Google anuncia que trabaja para operar con energía limpia en todo el mundo para 2030.</em> Ámbito.',
+        'Ámbito. (2020). <i>Google anuncia que trabaja para operar con energía limpia en todo el mundo para 2030</i>. ',
       link:
         'https://www.ambito.com/informacion-general/google/anuncia-que-trabaja-operar-energia-limpia-todo-el-mundo-2030-n5132706',
     },
@@ -258,20 +258,14 @@ export default {
       link: '',
     },
     {
-      referencia: '<em>Google. (s.f.). Volver al día de hoy. Google.</em>',
+      referencia: 'Google. (s.f.). Volver al día de hoy. <em>Google.</em>',
       link: 'https://sustainability.google/intl/es/carbon-free/#year-1998',
     },
     {
       referencia:
-        '<em>Google. (s.f.). Diseñamos nuestros centros de datos con la seguridad en mente. Google.</em>',
+        'Google. (s.f.). Diseñamos nuestros centros de datos con la seguridad en mente. <em>Google.</em>',
       link:
         'https://www.google.com/intl/es-419/about/datacenters/data-security/',
-    },
-    {
-      referencia:
-        'Joyanes, L. (2020). <em>Fundamentos de programación.</em> McGraw-Hill.',
-      link:
-        'https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=10211',
     },
     {
       referencia:
@@ -280,7 +274,7 @@ export default {
     },
     {
       referencia:
-        'Revista Semana. (18 de septiembre de 2020). Google es la primera gran empresa en eliminar su huella de carbono neta. <em>Revista Semana.</em>',
+        'Revista Semana. (2020). Google es la primera gran empresa en eliminar su huella de carbono neta. <i>Revista Semana.</i>',
       link:
         'https://www.semana.com/empresas/articulo/google-busca-mitigar-el-cambio-climatico-con-energias-limpias/300699/',
     },
