@@ -6,6 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Modelado multidimensional
+    p.mb-5  El modelado multidimensional, consiste en una técnica de diseño de bases de datos que responde a las necesidades analíticas que impone la tecnología Data <i>Warehousing</i>. Se logra un diseño más cercano a la visión del usuario final de una consulta empresarial y la información es fácil de encuestar y navegar. Además, permite obtener mayor velocidad de recuperación de las consultas, en comparación con el modelo Entidad-Relación. Por otra parte, asegura un orden implícito y permite el almacenamiento y análisis histórico de la información, mediante la inserción de los datos por intervalos de tiempo. 
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Conceptos
@@ -317,7 +318,7 @@
           .col-md-10.mb-4.mb-md-0
             figure.mb-5
               img(src='@/assets/curso/temas/tema1/img1-23.png', alt='Modelado multidimensional')
-            p Actualmente, el modelado multidimensional, tiene muchas aplicaciones y conocerlo cada día más, ayuda a definirlo mejor y saber cuáles son sus variables, como, por ejemplo, el tiempo, entre ellas. Al momento de trabajar, se recogen y analizan grandes cantidades de datos, para tener mejor y mucha más información, en especial, sobre la audiencia, los consumidores o el público objetivo; pero no se pueden aplicar de una forma general y obtener conclusiones, sin tener en cuenta “el tiempo". Este gran volumen de información recogida, se marca en un punto determinado del tiempo, por lo que, con los datos establecidos en ese momento puntual y un muy buen análisis, se logran entender el pasado, el presente, o una proyección del futuro. 
+            p Actualmente, el modelado multidimensional, tiene muchas aplicaciones y conocerlo cada día más, ayuda a definirlo mejor y saber cuáles son sus variables, como, por ejemplo, el tiempo, entre ellas. Al momento de trabajar, se recogen y analizan grandes cantidades de datos, para tener mejor y mucha más información, en especial, sobre la audiencia, los consumidores o el público objetivo; pero no se pueden aplicar de una forma general y obtener conclusiones, sin tener en cuenta “el tiempo". Este gran volumen de información recogida, se marca en un punto determinado del tiempo, por lo que, con los datos establecidos en ese momento puntual y un muy buen análisis, se logra entender el pasado, el presente, o una proyección del futuro. 
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             figure.mb-5

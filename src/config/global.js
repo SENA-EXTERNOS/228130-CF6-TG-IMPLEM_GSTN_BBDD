@@ -63,26 +63,6 @@ export default {
         numero: '2',
         titulo: 'Diseño lógico y físico',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Conceptos',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Ubicación física',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Índices',
-            hash: 't_2_3',
-          },
-        ],
       },
     ],
     subMenu: [
