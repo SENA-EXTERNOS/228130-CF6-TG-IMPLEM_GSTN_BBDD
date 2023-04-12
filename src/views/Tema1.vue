@@ -370,7 +370,7 @@
     p.mb-5 A continuación, en este video, conoceremos las estrategias de innovación digital para incorporar bodegas de datos en organizaciones: 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/6MaHycIxD7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p.mb-5(data-aos="fade-right") En la aplicación de bases de datos, el análisis de todos los datos permite que una organización mejore, conociendo lo que ha ocurrido, a un nivel de detalle que no se escapa a simple vista.
 
