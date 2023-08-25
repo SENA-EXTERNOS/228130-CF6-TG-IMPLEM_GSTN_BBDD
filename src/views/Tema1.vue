@@ -6,13 +6,10 @@
       .titulo-principal__numero
         span 1
       h1 Modelado multidimensional
-    p.mb-5  El modelado multidimensional, consiste en una técnica de diseño de bases de datos que responde a las necesidades analíticas que impone la tecnología Data <i>Warehousing</i>. Se logra un diseño más cercano a la visión del usuario final de una consulta empresarial y la información es fácil de encuestar y navegar. Además, permite obtener mayor velocidad de recuperación de las consultas, en comparación con el modelo Entidad-Relación. Por otra parte, asegura un orden implícito y permite el almacenamiento y análisis histórico de la información, mediante la inserción de los datos por intervalos de tiempo. 
+    p.mb-5  El modelado multidimensional consiste en una técnica de diseño de bases de datos que responde a las necesidades analíticas que impone la tecnología Data <i>Warehousing</i>. Se logra un diseño más cercano a la visión del usuario final de una consulta empresarial y la información es fácil de encuestar y navegar. Además, permite obtener mayor velocidad de recuperación de las consultas, en comparación con el modelo Entidad-Relación. Por otra parte, asegura un orden implícito y permite el almacenamiento y análisis histórico de la información, mediante la inserción de los datos por intervalos de tiempo. 
 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Conceptos
-
-    p.mb-5 El modelado multidimensional, consiste en una técnica de diseño de bases de datos que responde a las necesidades analíticas que impone la tecnología <i>Data Warehousing</i>. Se logra un diseño más cercano a la visión del usuario final de una consulta empresarial y la información es fácil de encuestar y navegar. Además, permite obtener mayor velocidad de recuperación de las consultas, en comparación con el modelo Entidad-Relación. Por otra parte, asegura un orden implícito y permite el almacenamiento y análisis histórico de la información, mediante la inserción de los datos por intervalos de tiempo. 
-
     p.mb-5 A continuación, se explican los conceptos que se trabajan en un modelado multidimensional. 
 
     .tarjeta.tarjeta--azul1.p-4.mb-5(data-aos="zoom-in")
@@ -81,7 +78,7 @@
       PasosB.color-primario
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p El modelado multidimensional de datos puede ser trabajado desde un esquema relacional; es decir, las dimensiones del cubo son modeladas como relaciones de dimensiones. Los cubos son modelados como funciones del producto cartesiano sobre las dimensiones de las medidas de los datos. En general, la estructura básica de un DW para el modelo multidimensional está definida por dos elementos los esquemas y las tablas.
+            p El modelado multidimensional de datos puede ser trabajado desde un esquema relacional; es decir, las dimensiones del cubo son modeladas como relaciones de dimensiones. Los cubos son modelados como funciones del producto cartesiano sobre las dimensiones de las medidas de los datos. En general, la estructura básica de un DW para el modelo multidimensional está definida por dos elementos, los esquemas y las tablas.
             ul.lista-ul--color
               li
                 i.fas.fa-check.fa-xs
@@ -168,7 +165,7 @@
               img(src='@/assets/curso/temas/tema1/img1-11.svg', alt='Esquema estrella')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Esquema de copo de nieve o 
+            h4 Esquema de copó de nieve o 
               em snowflake
             p Tiene una estructura muy similar a la anterior; la diferencia radica en que la estructura de las tablas 
               em lock up 
@@ -178,7 +175,7 @@
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Figura 2. 
               br
-              em Esquema copo de nieve
+              em Esquema copó de nieve
             figure
               img(src='@/assets/curso/temas/tema1/img1-12.svg', alt='Esquema copo de nieve')
 
@@ -381,7 +378,7 @@
       .col-lg-7
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="La aplicación de la tecnología bodegas de datos") Depende, siempre, de la situación en la que se encuentra la empresa y los recursos de los que dispone, tanto económicos como humanos. Aun así, todas las empresas pueden empezar a emplear estrategias relacionadas con el análisis de datos, que más adelante pueden ser escalables a otros volúmenes.
-          p(numero="2" titulo="<em>Data Warehouse</em>") Las grandes empresas necesitan hacer un manejo cada vez más ágil de la información, para mantenerse competitivas en la industria. los data <i>warehouse</i>, sirven para predecir la cantidad de producto que se venderá a un determinado precio y, por consiguiente, producir la cantidad adecuada para una entrega "justo a tiempo". asimismo, la requerida para satisfacer la demanda del producto por las grandes cadenas minoristas, garantizando la entrega de inmensas cantidades "en consignación", que no son pagadas hasta que sean vendidas al consumidor final.
+          p(numero="2" titulo="<em>Data Warehouse</em>") Las grandes empresas necesitan hacer un manejo cada vez más ágil de la información, para mantenerse competitivas en la industria. Los data <i>warehouse</i>, sirven para predecir la cantidad de producto que se venderá a un determinado precio y, por consiguiente, producir la cantidad adecuada para una entrega "justo a tiempo". Asimismo, la requerida para satisfacer la demanda del producto por las grandes cadenas minoristas, garantizando la entrega de inmensas cantidades "en consignación", que no son pagadas hasta que sean vendidas al consumidor final.
           p(numero="3" titulo="Ejemplo de <em>Data Warehouse</em>") Un ejemplo de empresa que usa bodegas de datos es 
             em Whirlpool
             |. Esta fábrica de electrodomésticos ubicada en Michigan, aplica su 
@@ -392,7 +389,7 @@
             |Para hacer un seguimiento directo de sus casi 15 millones de clientes y de sus más de 20 millones de aparatos instalados. Las mayores aplicaciones del sistema son para marketing, ventas, mantenimiento, garantía y diseño de productos. Permite mantener stock de partes más ajustados y mejorar las condiciones de negociación con los proveedores de las mismas. Si, por ejemplo, un determinado motor se identifica como poseedor de una tasa de falla superior, Whirlpool puede utilizar la información para hacer renegociaciones de garantía con el proveedor. (XDOCS, s.f., p.2).
           p(numero="4" titulo="Otros ejemplos de <em>Data Warehouse</em>") Son las empresas de carga y pasajeros que también utilizan 
             em data warehouses 
-            |para almacenar y acceder a gran cantidad de datos de sus operaciones y sistemas de reservas tales como artículos, tiempos de entrega, equipamiento, capacidades, costos, ventas, márgenes, etc. Para identificar y programar actividades de 
+            |para almacenar y acceder a gran cantidad de datos de sus operaciones y sistemas de reservas tales como, artículos, tiempos de entrega, equipamiento, capacidades, costos, ventas, márgenes, etc. Para identificar y programar actividades de 
             em marketing
             |, planificación de capacidad, monitoreo de utilidades, proyecciones y análisis de ventas y costos, programas de calidad y servicio a sus clientes.
           p(numero="5" titulo="Empresas que usan <em>Data Warehouse</em>") En las grandes empresas que aplican 

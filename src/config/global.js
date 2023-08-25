@@ -225,7 +225,7 @@ export default {
     {
       referencia:
         'Amos, D., Bader, D., Jablonski, J. & Heisler, F.  (2021). <em>Python Basics: A Practical Introduction to Python 3.</em> Real Python.',
-      link: '',
+      link: 'https://static.realpython.com/python-basics-sample-chapters.pdf',
     },
     {
       referencia:
@@ -261,7 +261,8 @@ export default {
     {
       referencia:
         'Rossum, G. (2017). <em>El tutorial de Python. Python Software Foundation.</em>',
-      link: '',
+      link:
+        'https://argentinaenpython.com/quiero-aprender-python/TutorialPython3.pdf',
     },
     {
       referencia: 'TIBCO. (s.f.). <em>¿Qué es un modelo de datos lógico?</em>',
