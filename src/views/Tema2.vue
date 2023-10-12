@@ -43,7 +43,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img2-5.svg', alt='Modelo físico')
           .col-md-9
-            p Una vez que haya determinado qué hechos, dimensiones, métricas y atributos existen, también puede determinar qué claves externas deben incluirse en el modelo físico. En este paso, se debe considerar el tamaño adecuado de los atributos (como la longitud de la cadena). Es importante recordar que se debe crear la clave principal, la clave externa y los disparadores correctos (por ejemplo, para actualizar automáticamente la clave principal).
+            p Una vez que haya determinado cuales hechos, dimensiones, métricas y atributos existen, también puede determinar qué claves externas deben incluirse en el modelo físico. En este paso, se debe considerar el tamaño adecuado de los atributos (como la longitud de la cadena). Es importante recordar que se debe crear la clave principal, la clave externa y los disparadores correctos (por ejemplo, para actualizar automáticamente la clave principal).
 
 
     h3(data-aos="fade-right") Conceptos
@@ -123,7 +123,7 @@
               img(src='@/assets/curso/temas/tema2/img2-16.png', alt='Persona con tablet')
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p Por ejemplo, en caso de incendio u otra interrupción del servicio, los datos se transfieren automáticamente a otro centro de datos para que los usuarios puedan continuar trabajando sin interrupciones. Cuenta con generadores de respaldo de emergencia para mantener los centros de datos alimentados en caso de un corte de energía. Por último, Google posee centros de operaciones de seguridad regionales y locales que cubren todos los centros de datos, los cuales monitorean y procesan las alarmas de todas las instalaciones. (Google, s.f.). 
+            p Por ejemplo, en caso de incendio u otra interrupción del servicio, los datos se transfieren automáticamente a otro centro de datos para que los usuarios puedan continuar trabajando sin interrupciones. Cuenta con generadores de respaldo de emergencia para mantener los centros de datos alimentados en caso de un corte de energía. Por último, Google posee centros de operaciones de seguridad regionales y locales que cubren todos los centros de datos, los cuales monitorean y procesan las alarmas de todas las instalaciones. (Google, s.f.).
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-17.png', alt='Cable roto')
